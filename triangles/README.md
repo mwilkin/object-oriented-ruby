@@ -1,12 +1,12 @@
 # _Numbers to Words_
 
-#### _A Ruby method that translates numbers in numeric form into written words. Version as of 6/28/2016_
+#### _A Ruby class that creates triangles and determines which kind of triangle they are_
 
-#### By _**Maldon Meehan and Matt Wilkin**_
+#### By _**Noah Yasskin and Matt Wilkin**_
 
 ## Description
 
-_A simple backend program that translates numbers in numeric form into written words. For example, it would translate 384 into "three hundred eighty four"_
+_Triangles Custom Class"_
 
 
 ## Setup/Installation Requirements
@@ -35,4 +35,4 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Noah Yassin and Matt Wilkin, Epicodus 2016_**
