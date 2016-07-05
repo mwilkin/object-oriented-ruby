@@ -9,7 +9,7 @@ class MyHash
 
   define_method(:myStore) do |key, value|
     kv_array = [key,value]
-    @my_hash.push(kv_hash)
+    @my_hash.push(kv_array)
   end
 
   define_method(:myFetch) do |key|

@@ -1,5 +1,5 @@
 require('rspec')
-require('my_hash')
+require('myhash')
 
 describe(MyHash) do
   describe("#myFetch") do
